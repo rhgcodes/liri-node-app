@@ -1,7 +1,6 @@
 # LIRI
 
 ## Table of contents
-  * [Demo](#demo)
   * [About this project](#about-this-project)
   * [Getting started](#contribute)
     * [Clone the repository](#clone-repository)
@@ -27,9 +26,6 @@
   * [Future code development](#feature-enhancements)
   * [Issues](#issues)
 
-## <a name="demo"></a> Demo
-Video demo: https://www.youtube.com/watch?v=ZdbBocqG4NE&feature=youtu.be
-
 ## <a name="about-this-project"></a> About this project
 <p>LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back tweets, songs, and movies.</p>
 
@@ -44,7 +40,7 @@ To get started running LIRI on your computer and/or contribute to this project, 
 ### <a name="clone-repository"></a> Clone the repository
 The first step is to clone the project repository to a local directory on your computer. To clone the repository, run the following commands:
 <pre>
-  git clone https://github.com/philipstubbs13/liri-node-app.git
+  git clone git@github.com:rhgcodes/liri-node-app.git
   cd liri-node-app
 </pre>
 
