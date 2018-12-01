@@ -1,0 +1,1597 @@
+liri command: my-tweets
+My last 20 tweets
+==========================================================================
+Tweet #1
+Tweet: RT @espn: https://t.co/ZMrMwvdUj9
+Created at: Mon Feb 05 00:51:25 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #2
+Tweet: RT @NOTSportsCenter: Tom Brady, trying to catch a pass: #SuperBowl https://t.co/fZlzALlwKW
+Created at: Mon Feb 05 00:50:16 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #3
+Tweet: Need something to do at your #superbowl #party? Try your luck at this trivia game I created: https://t.co/EzAOtCvX7J
+Created at: Sun Feb 04 23:15:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #4
+Tweet: RT @AdamSchefter: A postcard from Minneapolis and Super Bowl LII, via @ronberk1: https://t.co/RCFsU0zprP
+Created at: Sun Feb 04 14:26:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #5
+Tweet: RT @Sports_Spectrum: "Our number one goal is to make disciples." 
+- #Eagles tight end Zach Ertz (@ZERTZ_86 ) at the #superbowl in Minneapol…
+Created at: Sun Feb 04 14:25:41 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #7
+Tweet: RT @1Tyus: #AllEyesNorth
+Created at: Sun Feb 04 12:10:49 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #6
+Tweet: RT @Espngreeny: The skyways in this town are everything they are said to be. #Minneapolis #SuperBowl
+Created at: Sun Feb 04 14:22:18 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #8
+Tweet: RT @rickyrubio9: 5 W in a row... keep it going. https://t.co/lo8gxFQtsJ
+Created at: Sun Feb 04 12:08:06 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #9
+Tweet: RT @amazonecho: Alexa Loses Her Voice – Amazon Super Bowl LII Commercial #AskAlexa https://t.co/DTbOYPdsFk
+Created at: Sat Feb 03 15:36:31 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #10
+Tweet: RT @ForeignPolicy: Game of Drones. https://t.co/JqHQJOSvCI
+Created at: Sat Feb 03 15:33:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #12
+Tweet: RT @Hasselbeck: When in Minnesota ❄️ 🎣 ❄️ https://t.co/FAuNC6ebaQ
+Created at: Sat Feb 03 15:30:17 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #11
+Tweet: RT @USATODAY: Pizza for breakfast? We're in. https://t.co/LM4AhGmAF0 https://t.co/kTNtJfx8oN
+Created at: Sat Feb 03 15:31:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #15
+Tweet: RT @NOTSportsCenter: When you know you’re about to get fired and you just DGAF anymore https://t.co/phbBNKxZMH
+Created at: Sat Jan 27 03:02:24 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #13
+Tweet: RT @JoeCStrib: #Patriots defense not loaded with star power, but filled with playmakers when it counts:  
+https://t.co/jacu10yTIU https://t…
+Created at: Sat Feb 03 15:29:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #16
+Tweet: RT @TheFostersTV: "What is an American?" ✊🏻✊🏼✊🏽✊🏾✊🏿 
+______
+Song: "Don't Give Up" by @RyanStar https://t.co/FvJkDkZLZi
+Created at: Sat Jan 27 03:01:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #14
+Tweet: Check out this cool recipe app: https://t.co/S8t06EnYif #recipe #food #recipeapp #mycookingassistant #sohungry
+Created at: Thu Feb 01 03:41:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #17
+Tweet: RT @Fullscreen: Awwwwkward. https://t.co/PrsaEcBsd9
+Created at: Mon Jan 01 06:32:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #18
+Tweet: RT @KarlTowns: Happy New Years to everyone! Hope 2018 brings everyone blessings, positivity, and success! God bless!
+Created at: Mon Jan 01 05:25:52 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #19
+Tweet: RT @NFL: 2017 Division WINNERS! https://t.co/4KZyG4dR5y
+Created at: Mon Jan 01 03:43:26 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #20
+Tweet: RT @DukeMBB: If you start watching the 2015 National Championship Game on your DVR at about 10:51:41 PM and skip commercials/halftime, Tyus…
+Created at: Mon Jan 01 03:43:07 +0000 2018
+==========================================================================
+=======================================================================================================
+liri command: movie-this  Miracle
+=======================================================================================================
+Title: Big Miracle
+Year movie was released: 2012
+IMDB movie rating (out of 10): 6.5
+Rotten Tomatoes rating (out of 100%): 74%
+Filmed in: USA, UK
+Language: English
+Movie plot: In small-town Alaska, a news reporter recruits his ex-girlfriend - a Greenpeace volunteer - on a campaign to save a family of gray whales trapped by rapidly forming ice in the Arctic Circle.
+Actors: John Pingayak, Ahmaogak Sweeney, John Chase, Ishmael Angalook Hope
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+liri command: do-what-it-says
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name, "I Want it That Way"
+==========================================================================
+Song #1
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Hits--Chapter One
+==========================================================================
+==========================================================================
+Song #2
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Essential Backstreet Boys
+==========================================================================
+==========================================================================
+Song #5
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+==========================================================================
+==========================================================================
+Song #7
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: 90 Sweet 90s Hits!
+==========================================================================
+==========================================================================
+Song #6
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #8
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Poodle Hat
+==========================================================================
+==========================================================================
+Song #4
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Covers Part IV
+==========================================================================
+==========================================================================
+Song #10
+Artist: Landon Austin & Julia Sheer
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #9
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+==========================================================================
+==========================================================================
+Song #3
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Millennium
+==========================================================================
+liri command: do-what-it-says
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name, "I Want it That Way"
+==========================================================================
+Song #1
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Hits--Chapter One
+==========================================================================
+==========================================================================
+Song #2
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Essential Backstreet Boys
+==========================================================================
+==========================================================================
+Song #3
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Millennium
+==========================================================================
+==========================================================================
+Song #4
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Covers Part IV
+==========================================================================
+==========================================================================
+Song #5
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+==========================================================================
+==========================================================================
+Song #8
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Poodle Hat
+==========================================================================
+==========================================================================
+Song #7
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: 90 Sweet 90s Hits!
+==========================================================================
+==========================================================================
+Song #6
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #10
+Artist: Landon Austin & Julia Sheer
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #9
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+==========================================================================
+==========================================================================
+liri command: spotify-this-song
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+==========================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+liri command: do-what-it-says
+liri command: spotify-this-song
+==========================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Hunger Games
+=======================================================================================================
+Title: The Hunger Games
+Year movie was released: 2012
+IMDB movie rating (out of 10): 7.2
+Rotten Tomatoes rating (out of 100%): 84%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.
+Actors: Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields
+=======================================================================================================
+==========================================================================
+liri command: spotify-this-song
+liri command: my-tweets
+My last 20 tweets
+==========================================================================
+Tweet #1
+Tweet: RT @espn: https://t.co/ZMrMwvdUj9
+Created at: Mon Feb 05 00:51:25 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #2
+Tweet: RT @NOTSportsCenter: Tom Brady, trying to catch a pass: #SuperBowl https://t.co/fZlzALlwKW
+Created at: Mon Feb 05 00:50:16 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #3
+Tweet: Need something to do at your #superbowl #party? Try your luck at this trivia game I created: https://t.co/EzAOtCvX7J
+Created at: Sun Feb 04 23:15:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #5
+Tweet: RT @Sports_Spectrum: "Our number one goal is to make disciples." 
+- #Eagles tight end Zach Ertz (@ZERTZ_86 ) at the #superbowl in Minneapol…
+Created at: Sun Feb 04 14:25:41 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #6
+Tweet: RT @Espngreeny: The skyways in this town are everything they are said to be. #Minneapolis #SuperBowl
+Created at: Sun Feb 04 14:22:18 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #4
+Tweet: RT @AdamSchefter: A postcard from Minneapolis and Super Bowl LII, via @ronberk1: https://t.co/RCFsU0zprP
+Created at: Sun Feb 04 14:26:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #9
+Tweet: RT @amazonecho: Alexa Loses Her Voice – Amazon Super Bowl LII Commercial #AskAlexa https://t.co/DTbOYPdsFk
+Created at: Sat Feb 03 15:36:31 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #8
+Tweet: RT @rickyrubio9: 5 W in a row... keep it going. https://t.co/lo8gxFQtsJ
+Created at: Sun Feb 04 12:08:06 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #11
+Tweet: RT @USATODAY: Pizza for breakfast? We're in. https://t.co/LM4AhGmAF0 https://t.co/kTNtJfx8oN
+Created at: Sat Feb 03 15:31:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #10
+Tweet: RT @ForeignPolicy: Game of Drones. https://t.co/JqHQJOSvCI
+Created at: Sat Feb 03 15:33:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #12
+Tweet: RT @Hasselbeck: When in Minnesota ❄️ 🎣 ❄️ https://t.co/FAuNC6ebaQ
+Created at: Sat Feb 03 15:30:17 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #13
+Tweet: RT @JoeCStrib: #Patriots defense not loaded with star power, but filled with playmakers when it counts:  
+https://t.co/jacu10yTIU https://t…
+Created at: Sat Feb 03 15:29:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #14
+Tweet: Check out this cool recipe app: https://t.co/S8t06EnYif #recipe #food #recipeapp #mycookingassistant #sohungry
+Created at: Thu Feb 01 03:41:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #15
+Tweet: RT @NOTSportsCenter: When you know you’re about to get fired and you just DGAF anymore https://t.co/phbBNKxZMH
+Created at: Sat Jan 27 03:02:24 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #7
+Tweet: RT @1Tyus: #AllEyesNorth
+Created at: Sun Feb 04 12:10:49 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #16
+Tweet: RT @TheFostersTV: "What is an American?" ✊🏻✊🏼✊🏽✊🏾✊🏿 
+______
+Song: "Don't Give Up" by @RyanStar https://t.co/FvJkDkZLZi
+Created at: Sat Jan 27 03:01:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #17
+Tweet: RT @Fullscreen: Awwwwkward. https://t.co/PrsaEcBsd9
+Created at: Mon Jan 01 06:32:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #18
+Tweet: RT @KarlTowns: Happy New Years to everyone! Hope 2018 brings everyone blessings, positivity, and success! God bless!
+Created at: Mon Jan 01 05:25:52 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #19
+Tweet: RT @NFL: 2017 Division WINNERS! https://t.co/4KZyG4dR5y
+Created at: Mon Jan 01 03:43:26 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #20
+Tweet: RT @DukeMBB: If you start watching the 2015 National Championship Game on your DVR at about 10:51:41 PM and skip commercials/halftime, Tyus…
+Created at: Mon Jan 01 03:43:07 +0000 2018
+==========================================================================
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+liri command: my-tweets
+My last 20 tweets
+==========================================================================
+Tweet #1
+Tweet: RT @espn: https://t.co/ZMrMwvdUj9
+Created at: Mon Feb 05 00:51:25 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #2
+Tweet: RT @NOTSportsCenter: Tom Brady, trying to catch a pass: #SuperBowl https://t.co/fZlzALlwKW
+Created at: Mon Feb 05 00:50:16 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #5
+Tweet: RT @Sports_Spectrum: "Our number one goal is to make disciples." 
+- #Eagles tight end Zach Ertz (@ZERTZ_86 ) at the #superbowl in Minneapol…
+Created at: Sun Feb 04 14:25:41 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #3
+Tweet: Need something to do at your #superbowl #party? Try your luck at this trivia game I created: https://t.co/EzAOtCvX7J
+Created at: Sun Feb 04 23:15:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #4
+Tweet: RT @AdamSchefter: A postcard from Minneapolis and Super Bowl LII, via @ronberk1: https://t.co/RCFsU0zprP
+Created at: Sun Feb 04 14:26:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #8
+Tweet: RT @rickyrubio9: 5 W in a row... keep it going. https://t.co/lo8gxFQtsJ
+Created at: Sun Feb 04 12:08:06 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #9
+Tweet: RT @amazonecho: Alexa Loses Her Voice – Amazon Super Bowl LII Commercial #AskAlexa https://t.co/DTbOYPdsFk
+Created at: Sat Feb 03 15:36:31 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #10
+Tweet: RT @ForeignPolicy: Game of Drones. https://t.co/JqHQJOSvCI
+Created at: Sat Feb 03 15:33:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #11
+Tweet: RT @USATODAY: Pizza for breakfast? We're in. https://t.co/LM4AhGmAF0 https://t.co/kTNtJfx8oN
+Created at: Sat Feb 03 15:31:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #6
+Tweet: RT @Espngreeny: The skyways in this town are everything they are said to be. #Minneapolis #SuperBowl
+Created at: Sun Feb 04 14:22:18 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #13
+Tweet: RT @JoeCStrib: #Patriots defense not loaded with star power, but filled with playmakers when it counts:  
+https://t.co/jacu10yTIU https://t…
+Created at: Sat Feb 03 15:29:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #14
+Tweet: Check out this cool recipe app: https://t.co/S8t06EnYif #recipe #food #recipeapp #mycookingassistant #sohungry
+Created at: Thu Feb 01 03:41:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #12
+Tweet: RT @Hasselbeck: When in Minnesota ❄️ 🎣 ❄️ https://t.co/FAuNC6ebaQ
+Created at: Sat Feb 03 15:30:17 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #15
+Tweet: RT @NOTSportsCenter: When you know you’re about to get fired and you just DGAF anymore https://t.co/phbBNKxZMH
+Created at: Sat Jan 27 03:02:24 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #16
+Tweet: RT @TheFostersTV: "What is an American?" ✊🏻✊🏼✊🏽✊🏾✊🏿 
+______
+Song: "Don't Give Up" by @RyanStar https://t.co/FvJkDkZLZi
+Created at: Sat Jan 27 03:01:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #7
+Tweet: RT @1Tyus: #AllEyesNorth
+Created at: Sun Feb 04 12:10:49 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #18
+Tweet: RT @KarlTowns: Happy New Years to everyone! Hope 2018 brings everyone blessings, positivity, and success! God bless!
+Created at: Mon Jan 01 05:25:52 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #17
+Tweet: RT @Fullscreen: Awwwwkward. https://t.co/PrsaEcBsd9
+Created at: Mon Jan 01 06:32:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #19
+Tweet: RT @NFL: 2017 Division WINNERS! https://t.co/4KZyG4dR5y
+Created at: Mon Jan 01 03:43:26 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #20
+Tweet: RT @DukeMBB: If you start watching the 2015 National Championship Game on your DVR at about 10:51:41 PM and skip commercials/halftime, Tyus…
+Created at: Mon Jan 01 03:43:07 +0000 2018
+==========================================================================
+liri command: do-what-it-says
+liri command: spotify-this-song
+==========================================================================
+==========================================================================
+Song #2
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Essential Backstreet Boys
+==========================================================================
+==========================================================================
+Song #4
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Covers Part IV
+==========================================================================
+==========================================================================
+Song #5
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+==========================================================================
+==========================================================================
+Song #1
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Hits--Chapter One
+==========================================================================
+==========================================================================
+Song #6
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #7
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: 90 Sweet 90s Hits!
+==========================================================================
+==========================================================================
+Song #8
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Poodle Hat
+==========================================================================
+Top 10 songs on Spotify with the name, "I Want it That Way"
+==========================================================================
+Song #9
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+==========================================================================
+==========================================================================
+Song #10
+Artist: Landon Austin & Julia Sheer
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #3
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Millennium
+==========================================================================
+liri command: my-tweets
+My last 20 tweets
+==========================================================================
+Tweet #1
+Tweet: RT @espn: https://t.co/ZMrMwvdUj9
+Created at: Mon Feb 05 00:51:25 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #3
+Tweet: Need something to do at your #superbowl #party? Try your luck at this trivia game I created: https://t.co/EzAOtCvX7J
+Created at: Sun Feb 04 23:15:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #4
+Tweet: RT @AdamSchefter: A postcard from Minneapolis and Super Bowl LII, via @ronberk1: https://t.co/RCFsU0zprP
+Created at: Sun Feb 04 14:26:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #2
+Tweet: RT @NOTSportsCenter: Tom Brady, trying to catch a pass: #SuperBowl https://t.co/fZlzALlwKW
+Created at: Mon Feb 05 00:50:16 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #5
+Tweet: RT @Sports_Spectrum: "Our number one goal is to make disciples." 
+- #Eagles tight end Zach Ertz (@ZERTZ_86 ) at the #superbowl in Minneapol…
+Created at: Sun Feb 04 14:25:41 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #6
+Tweet: RT @Espngreeny: The skyways in this town are everything they are said to be. #Minneapolis #SuperBowl
+Created at: Sun Feb 04 14:22:18 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #7
+Tweet: RT @1Tyus: #AllEyesNorth
+Created at: Sun Feb 04 12:10:49 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #8
+Tweet: RT @rickyrubio9: 5 W in a row... keep it going. https://t.co/lo8gxFQtsJ
+Created at: Sun Feb 04 12:08:06 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #9
+Tweet: RT @amazonecho: Alexa Loses Her Voice – Amazon Super Bowl LII Commercial #AskAlexa https://t.co/DTbOYPdsFk
+Created at: Sat Feb 03 15:36:31 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #10
+Tweet: RT @ForeignPolicy: Game of Drones. https://t.co/JqHQJOSvCI
+Created at: Sat Feb 03 15:33:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #11
+Tweet: RT @USATODAY: Pizza for breakfast? We're in. https://t.co/LM4AhGmAF0 https://t.co/kTNtJfx8oN
+Created at: Sat Feb 03 15:31:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #12
+Tweet: RT @Hasselbeck: When in Minnesota ❄️ 🎣 ❄️ https://t.co/FAuNC6ebaQ
+Created at: Sat Feb 03 15:30:17 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #13
+Tweet: RT @JoeCStrib: #Patriots defense not loaded with star power, but filled with playmakers when it counts:  
+https://t.co/jacu10yTIU https://t…
+Created at: Sat Feb 03 15:29:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #14
+Tweet: Check out this cool recipe app: https://t.co/S8t06EnYif #recipe #food #recipeapp #mycookingassistant #sohungry
+Created at: Thu Feb 01 03:41:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #15
+Tweet: RT @NOTSportsCenter: When you know you’re about to get fired and you just DGAF anymore https://t.co/phbBNKxZMH
+Created at: Sat Jan 27 03:02:24 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #16
+Tweet: RT @TheFostersTV: "What is an American?" ✊🏻✊🏼✊🏽✊🏾✊🏿 
+______
+Song: "Don't Give Up" by @RyanStar https://t.co/FvJkDkZLZi
+Created at: Sat Jan 27 03:01:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #17
+Tweet: RT @Fullscreen: Awwwwkward. https://t.co/PrsaEcBsd9
+Created at: Mon Jan 01 06:32:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #18
+Tweet: RT @KarlTowns: Happy New Years to everyone! Hope 2018 brings everyone blessings, positivity, and success! God bless!
+Created at: Mon Jan 01 05:25:52 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #19
+Tweet: RT @NFL: 2017 Division WINNERS! https://t.co/4KZyG4dR5y
+Created at: Mon Jan 01 03:43:26 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #20
+Tweet: RT @DukeMBB: If you start watching the 2015 National Championship Game on your DVR at about 10:51:41 PM and skip commercials/halftime, Tyus…
+Created at: Mon Jan 01 03:43:07 +0000 2018
+==========================================================================
+==========================================================================
+liri command: spotify-this-song
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Miracle
+=======================================================================================================
+Title: Big Miracle
+Year movie was released: 2012
+IMDB movie rating (out of 10): 6.5
+Rotten Tomatoes rating (out of 100%): 74%
+Filmed in: USA, UK
+Language: English
+Movie plot: In small-town Alaska, a news reporter recruits his ex-girlfriend - a Greenpeace volunteer - on a campaign to save a family of gray whales trapped by rapidly forming ice in the Arctic Circle.
+Actors: John Pingayak, Ahmaogak Sweeney, John Chase, Ishmael Angalook Hope
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Internship
+=======================================================================================================
+Title: The Internship
+Year movie was released: 2013
+IMDB movie rating (out of 10): 6.3
+Rotten Tomatoes rating (out of 100%): 35%
+Filmed in: USA
+Language: English, Tagalog, Cantonese, Mandarin, Spanish
+Movie plot: Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
+Actors: Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+liri command: spotify-this-song
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+==========================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Mockingjay
+=======================================================================================================
+Title: The Hunger Games: Mockingjay - Part 1
+Year movie was released: 2014
+IMDB movie rating (out of 10): 6.7
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: USA
+Language: English
+Movie plot: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this  Social Network
+=======================================================================================================
+Title: The Social Network
+Year movie was released: 2010
+IMDB movie rating (out of 10): 7.7
+Rotten Tomatoes rating (out of 100%): 96%
+Filmed in: USA
+Language: English, French
+Movie plot: Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+Actors: Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this Mr Nobody
+=======================================================================================================
+Title: Mr. Nobody
+Year movie was released: 2009
+IMDB movie rating (out of 10): 7.9
+Rotten Tomatoes rating (out of 100%): 66%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=======================================================================================================
+liri command: spotify-this-song
+==========================================================================
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Sign (US Album) [Remastered]
+
+==========================================================================
+liri command: spotify-this-song
+==========================================================================
+Top 10 songs on Spotify with the name,  What Ifs
+==========================================================================
+Song #2
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/38694be1b7496f8ff0f308340855c9d8dfc5cf01?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown (Deluxe Edition)
+==========================================================================
+==========================================================================
+Song #3
+Artist: Kane Brown
+Song title: What Ifs (Remix)
+Preview song: https://p.scdn.co/mp3-preview/b05441ecafdf40446beb4bc8f8835b1a2421d447?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (Remix)
+==========================================================================
+==========================================================================
+Song #4
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Original
+Preview song: https://p.scdn.co/mp3-preview/70d964d280f453940f23b78f5bc8233742ebbc2e?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #1
+Artist: Kane Brown
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9a1bc6de88d686138b641e6022a4b30c6e75de74?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Kane Brown
+==========================================================================
+==========================================================================
+Song #5
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - Darkhorse Ambient Room Remix
+Preview song: https://p.scdn.co/mp3-preview/307753756f5d7f6cdebc8112a50bf31512bdb7d6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #6
+Artist: Melanie Baker
+Song title: What Ifs
+Preview song: https://p.scdn.co/mp3-preview/9de234644b9cc922ae56869b0b7f98a2d62c16cf?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs
+==========================================================================
+==========================================================================
+Song #7
+Artist: boyChild
+Song title: Counting What Ifs - Vika Remix
+Preview song: https://p.scdn.co/mp3-preview/f672b9ef58af0e8a32f5525ae52e312716253db3?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #8
+Artist: Jaguar Wright
+Song title: The What If's
+Preview song: Song preview is not available for this song.
+Album: Denials Delusions And Decisions
+==========================================================================
+==========================================================================
+Song #9
+Artist: boyChild
+Song title: Counting What Ifs (feat. Soundmouse) - No Beats
+Preview song: https://p.scdn.co/mp3-preview/0d1d44193e56b600f0f549591ddb7145fab70b52?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Counting What Ifs (feat. Soundmouse)
+==========================================================================
+==========================================================================
+Song #10
+Artist: Ryan Krysiak
+Song title: What Ifs (feat. Brenna Nicole Bone)
+Preview song: https://p.scdn.co/mp3-preview/7b49eeca51d768df6692c553973484c212171015?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: What Ifs (feat. Brenna Nicole Bone)
+==========================================================================
+liri command: do-what-it-says
+liri command: spotify-this-song
+==========================================================================
+==========================================================================
+Song #1
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Hits--Chapter One
+==========================================================================
+==========================================================================
+Song #2
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: The Essential Backstreet Boys
+==========================================================================
+==========================================================================
+Song #4
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Covers Part IV
+==========================================================================
+Top 10 songs on Spotify with the name, "I Want it That Way"
+==========================================================================
+Song #5
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+==========================================================================
+==========================================================================
+Song #7
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: 90 Sweet 90s Hits!
+==========================================================================
+==========================================================================
+Song #8
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Poodle Hat
+==========================================================================
+==========================================================================
+Song #3
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: Millennium
+==========================================================================
+==========================================================================
+Song #6
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #10
+Artist: Landon Austin & Julia Sheer
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=090b6f40fd9e40eaa389e1a6e6aa1cfd
+Album: I Want It That Way
+==========================================================================
+==========================================================================
+Song #9
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+==========================================================================
+liri command: my-tweets
+My last 20 tweets
+==========================================================================
+Tweet #2
+Tweet: RT @NOTSportsCenter: A behind the scenes look at what really went down in the Cavs’ locker room after LeBron trades everyone away
+
+(Video v…
+Created at: Sat Feb 10 03:25:28 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #1
+Tweet: RT @NBCSWarriors: Not only are @warriors better than @HoustonRockets in 🏀
+
+but @NickSwagyPYoung can sing "I want it that way" better than a…
+Created at: Sat Feb 10 03:28:54 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #3
+Tweet: RT @NBAonTNT: #NBATwitter going to bed like... https://t.co/GKkc0ngp0O
+Created at: Sat Feb 10 01:31:05 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #4
+Tweet: “How I launched My Career in Web Development in Less Than a Year” by @Colin_McAtee https://t.co/uYtE7TM8X7
+Created at: Sat Feb 10 01:01:10 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #5
+Tweet: 10 ways to brag about yourself without sounding like a jerk by @artofmanliness https://t.co/grF0Rqihlq via @bi_contributors
+Created at: Sat Feb 10 00:52:57 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #6
+Tweet: RT @espn: https://t.co/ZMrMwvdUj9
+Created at: Mon Feb 05 00:51:25 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #7
+Tweet: RT @NOTSportsCenter: Tom Brady, trying to catch a pass: #SuperBowl https://t.co/fZlzALlwKW
+Created at: Mon Feb 05 00:50:16 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #8
+Tweet: Need something to do at your #superbowl #party? Try your luck at this trivia game I created: https://t.co/EzAOtCvX7J
+Created at: Sun Feb 04 23:15:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #9
+Tweet: RT @AdamSchefter: A postcard from Minneapolis and Super Bowl LII, via @ronberk1: https://t.co/RCFsU0zprP
+Created at: Sun Feb 04 14:26:42 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #10
+Tweet: RT @Sports_Spectrum: "Our number one goal is to make disciples." 
+- #Eagles tight end Zach Ertz (@ZERTZ_86 ) at the #superbowl in Minneapol…
+Created at: Sun Feb 04 14:25:41 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #11
+Tweet: RT @Espngreeny: The skyways in this town are everything they are said to be. #Minneapolis #SuperBowl
+Created at: Sun Feb 04 14:22:18 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #12
+Tweet: RT @1Tyus: #AllEyesNorth
+Created at: Sun Feb 04 12:10:49 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #13
+Tweet: RT @rickyrubio9: 5 W in a row... keep it going. https://t.co/lo8gxFQtsJ
+Created at: Sun Feb 04 12:08:06 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #14
+Tweet: RT @amazonecho: Alexa Loses Her Voice – Amazon Super Bowl LII Commercial #AskAlexa https://t.co/DTbOYPdsFk
+Created at: Sat Feb 03 15:36:31 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #15
+Tweet: RT @ForeignPolicy: Game of Drones. https://t.co/JqHQJOSvCI
+Created at: Sat Feb 03 15:33:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #16
+Tweet: RT @USATODAY: Pizza for breakfast? We're in. https://t.co/LM4AhGmAF0 https://t.co/kTNtJfx8oN
+Created at: Sat Feb 03 15:31:53 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #17
+Tweet: RT @Hasselbeck: When in Minnesota ❄️ 🎣 ❄️ https://t.co/FAuNC6ebaQ
+Created at: Sat Feb 03 15:30:17 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #18
+Tweet: RT @JoeCStrib: #Patriots defense not loaded with star power, but filled with playmakers when it counts:  
+https://t.co/jacu10yTIU https://t…
+Created at: Sat Feb 03 15:29:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #19
+Tweet: Check out this cool recipe app: https://t.co/S8t06EnYif #recipe #food #recipeapp #mycookingassistant #sohungry
+Created at: Thu Feb 01 03:41:47 +0000 2018
+==========================================================================
+==========================================================================
+Tweet #20
+Tweet: RT @NOTSportsCenter: When you know you’re about to get fired and you just DGAF anymore https://t.co/phbBNKxZMH
+Created at: Sat Jan 27 03:02:24 +0000 2018
+==========================================================================
