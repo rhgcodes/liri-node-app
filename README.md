@@ -50,7 +50,7 @@ The first step is to clone the project repository to a local directory on your c
 #### <a name="structure-of-project"></a> Structure of the project
 <p>After you clone the repository, navigate to the project root directory (liri-node-app). The project directory structure is set up as follows:</p>
 <ul>
-  <li> <b>keys.js</b>: Allows access to the keys that are used to send and retrieve data to and from the Twitter and Spotify APIs.
+  <li> <b>keys.js</b>: Allows access to the key that is used to send and retrieve data to and from the Spotify API.
   </li>
   <li><b>liri.js</b>: Contains the code that is used to run the application from the command line.</li>
   <li><b>log.txt</b>: App log file. When you run a command, data gets logged to the terminal as well as to the log.txt file in the project's root directory.</li>
@@ -65,7 +65,6 @@ The first step is to clone the project repository to a local directory on your c
 <p>After you clone the repository to a local directory, change directory to the project root directory (liri-node-app) and run the following command to install the required npm packages:</p>
 <pre>npm install</pre>
 <ul>
-	<li>Twitter npm package (https://www.npmjs.com/package/twitter) - used to send requests to Twitter API and receive tweets.</li>
 	<li>Spotify npm package (https://www.npmjs.com/package/node-spotify-api) - used to send requests to Spotify API and receive song information.</li>
 	<li>Request npm package (https://www.npmjs.com/package/request) - used to send requests to OMDB API and receive movie information.</li>
 	<li>DotEnv npm package (https://www.npmjs.com/package/dotenv) - used to load environment variables from a .env file into process.env.</li>
@@ -83,34 +82,12 @@ The first step is to clone the project repository to a local directory on your c
 
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
-
-#Twitter API keys
-
-TWITTER_CONSUMER_KEY=your-twitter-consumer-key
-TWITTER_CONSUMER_SECRET=your-twitter-consumer-secret
-TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
-TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 </pre>
 
 <p>This file will be used by the dotenv package to set what are known as environment variables to the global process.env object in node. These are values that are meant to be specific to the computer that node is running on, and since we are gitignoring this file, they won't be pushed to GitHub — keeping the API key information private.</p>
 
 ### <a name="obtain-keys"></a> Obtain API keys
-<p>To retrieve data from the APIs, you need to obtain API keys for Twitter and Spotify.</p>
-
-#### <a name="twitter-api"></a> Obtain Twitter API keys
-<p>To obtain the Twitter API keys:</p>
-<ol>
-  <li>Go to https://apps.twitter.com/app/new.</li>
-  <li>In the <b>Application Details</b> form, enter a name and description for the application to be used with the Twitter API.</li>
-  <li>For <b>Website</b>, enter <input>http://google.com</input>.</li>
-  <li>Leave the <b>Callback URL</b> field blank.</li>
-  <li>In the <b>Developer Agreement</b> section, select the check box indicating that you agree to the Twitter Developer Agreement.</li>
-  <li>Click <b>Create your Twitter application</b>.</li>
-  <li>To get your consumer key and secret, click the <b>Keys and Access Tokens</b> tab.</li>
-  <li>Copy and paste the <b>Consumer Key (API Key)</b> and <b>Consumer Secret (API Secret)</b> values into your .env file, replacing the your-twitter-consumer-key and your-twitter-consumer-secret placeholders, respectively.</li>
-  <li>At the bottom of the page, click <b>Create my access token</b> to get your access token key and secret.</li>
-  <li>Copy the <b>Access Token</b> and <b>Access Token Secret</b> displayed at the bottom of the next screen. Paste them into your .env file, replacing the placeholders for your-twitter-access-token-key and your-twitter-access-token-secret, respectively.</li>
-</ol>
+<p>To retrieve data from the APIs, you need to obtain API key for Spotify.</p>
 
 #### <a name="spotify-api"></a> Obtain Spotify API keys
 <p>To obtain the Spotify API keys:</p>
@@ -122,7 +99,7 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
   <li>Paste the <b>Client ID</b> and <b>Client Secret</b> values into your .env file, replacing the placeholders for your-spotify-id and your-spotify-secret, respectively.</li>
 
 ## <a name="command-reference"></a> Running LIRI from the command line
-<p>In LIRI, there are five commands that you can run. These commands allow you to receive access to a list of tweets from Twitter, song information from Spotify, and movie information from OMDB. Review the command syntax and various arguments you can use for the command you want to run.</p>
+<p>In LIRI, there are five commands that you can run. These commands allow you to receive access to song information from Spotify, and movie information from OMDB. Review the command syntax and various arguments you can use for the command you want to run.</p>
 
 ### <a name="command-syntax"></a> Command line syntax
 <p>The syntax for the LIRI command line interface is:</p>
@@ -133,7 +110,6 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 
 Command | Description
 ------------ | -------------
-my-tweets | Shows the last 20 tweets from Twitter timeline and when they were created. 
 movie-this [movie_name] | Shows information about the specifid movie. The movie name is optional. If no movie is specified, Mr. Nobody is displayed by default.
 spotify-this-song [song_name] | Shows top 10 songs on Spotify that have specified name. Song name is optional. If no song is specified, The Sign by Ace of Base is displayed by default.
 do-what-it-says | Shows the top 10 songs on Spotify for the song, I want it that way.
@@ -145,14 +121,6 @@ help | Shows help information for each command.
   <li>If no movie is passed to the movie-this command, then movie information will be displayed for the movie, Mr. Nobody, by default.</li>
   <li>If no song is passed to the spotify-this-song command, then song information will be displayed for the song, The Sign by Ace of Base, by default.</li>
 </ul>
-
-### <a name="tweets"></a> Displaying my tweets
-<p>By default, the application displays tweets from my Twitter account (iamPhilStubbs). If you want LIRI to show tweets from your own Twitter account, replace iamPhilStubbs with your screen name in the liri.js file, as shown in the following example:</p>
-<pre>
-  //Parameters. Show the tweets from my timeline. Limit to the last 20 tweets.
-  var params = {screen_name: 'iamPhilStubbs', limit: 20};
-  client.get('statuses/user_timeline', params, function(error, tweets, response) {
-</pre>
 
 ## <a name="command-line-help"></a> Command line help
 <p>Help information is available for each command from the command line.</p>
@@ -173,8 +141,6 @@ help | Shows help information for each command.
 
 <img src="/screenshots/liri-does.png" alt="SS6">
 
-<img src="/screenshots/My-tweets.png" alt="SS7">
-
 ## <a name="technologies-used"></a> Technologies used to build app
 
   * Node.js (https://nodejs.org/en/)
@@ -185,7 +151,6 @@ help | Shows help information for each command.
 <p>The following is a list of potential feature enhancements:</p>
 
 ## <a name ="Issues"></a> Issues
-<p>If you find an issue while using the app or have a request, <a href="https://github.com/philipstubbs13/liri-node-app/issues/" target="_blank">log the issue or request here</a>. These issues will be addressed in a future code update.</p>
 
 <p>Known issues</p>
 <ul>

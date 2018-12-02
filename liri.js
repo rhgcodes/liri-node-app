@@ -1,14 +1,12 @@
 //Read and set any environment variables with the dotenv package:
 require("dotenv").config();
 
-//To retrieve the data that will power this app, we'll need to send requests to the Twitter, Spotify and OMDB APIs. 
+//To retrieve the data that will power this app, we'll need to send requests to the Spotify and OMDB APIs. 
 //Grab the Node packages.
 //Grab the request package to send requests to the OMDB API.
 var request = require("request");
 //Grab the Spotify package to send requests to the Spotify API.
 var Spotify = require('node-spotify-api');
-//Grap the Twitter package to send requests to the Twitter API.
-var Twitter = require('twitter');
 //Grab columnify package to display command line help output in columns.
 //https://www.npmjs.com/package/columnify
 var columnify = require('columnify')
@@ -37,7 +35,6 @@ var songName = "";
 var addedToLogFile = "Results added to log.txt file."
 
 //Code to access keys information.
-//var client = new Twitter(keys.twitter);
 
 //If the liriCommand is movie-this...
 //Output information about that movie.
@@ -166,43 +163,6 @@ function getLatestTweets(){
     console.log(data)
 	});
 
-	//Code to access Twitter keys information.
-	var client = new Twitter({
-		consumer_key: process.env.TWITTER_CONSUMER_KEY,
-		consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-		access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-		access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-	});
-
-	//Parameters. Show the tweets from my timeline. Limit to the last 20 tweets.
-	var params = {screen_name: 'iamPhilStubbs', limit: 20};
-	client.get('statuses/user_timeline', params, function(error, tweets, response) {
-	  if (!error) {
-	    //console.log(tweets);
-	    //Show last 20 tweets from my timeline.
-	    console.log("My last 20 tweets");
-	    logData("My last 20 tweets");
-	    for (var i=0; i < tweets.length; i ++) {
-	    	//output the tweets
-	    	// \r\n is used as a new line character in Windows: https://stackoverflow.com/questions/15433188/r-n-r-n-what-is-the-difference-between-them
-	    	var myTweetResults = 
-	    		"==========================================================================" + "\r\n" +
-	    		//Display tweet number for each tweet. For example, the first tweet returned will be tweet #1, the second returned will be tweet #2, etc.
-	    		"Tweet #" + (i+1) + "\r\n" +
-	    		//Output the tweet text from Twitter to the terminal.
-	    		"Tweet: " + tweets[i].text + "\r\n" +
-	    		//Output the date/time when the tweet was created to the terminal.
-	    		"Created at: " + tweets[i].created_at + "\r\n" +
-	    		"==========================================================================" 
-
-	    	//output the results to the terminal
-	    	console.log(myTweetResults);
-	    	//output the results to the log.txt file.
-	    	logData(myTweetResults);
-	    }
-	  }
-	});
-}
 
 //Get song info function... Run this function to get information about the specified song.
 function getSongInfo(songName) {
@@ -375,11 +335,7 @@ function showHelp() {
 	});
 	var helpInfo = "Usage: node liri.js <command> [arguments]" 
 	var helpColumns = columnify([{
-			Command: 'my-tweets',
-			Description: "Shows the last 20 tweets from Twitter timeline and when they were created."
-			}, {
-
-			Command: "movie-this [movie_name]",
+						Command: "movie-this [movie_name]",
 			Description: "Shows information about the specifid movie. If no movie is specified, Mr. Nobody is displayed by default."
 			}, {
 
