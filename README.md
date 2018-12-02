@@ -163,6 +163,18 @@ help | Shows help information for each command.
 
 <img src="/screenshots/Start-1.png" alt="SS1">
 
+<img src="/screenshots/Spotify-this1.png" alt="SS2">
+
+<img src="/screenshots/Spotify-this2.png" alt="SS2">
+
+<img src="/screenshots/movie-this-example.png" alt="SS3">
+
+<img src="/screenshots/movie-this-example2.png" alt="SS4">
+
+<img src="/screenshots/liri-does.png" alt="SS5">
+
+<img src="/screenshots/My-tweets.png" alt="SS6">
+
 ## <a name="technologies-used"></a> Technologies used to build app
 
   * Node.js (https://nodejs.org/en/)
