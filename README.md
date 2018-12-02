@@ -161,7 +161,7 @@ help | Shows help information for each command.
 
 ## <a name="examples"></a> Examples:
 
-<img src="Start-1.png" alt="SS1">
+<img src="/screenshots/Start-1.png" alt="SS1">
 
 ## <a name="technologies-used"></a> Technologies used to build app
 
