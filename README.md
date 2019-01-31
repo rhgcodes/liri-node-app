@@ -120,7 +120,7 @@ help | Shows help information for each command.
 <p>By default, the application displays tweets from my Twitter account (rgalleguillos87). If you want LIRI to show tweets from your own Twitter account, replace rgalleguillos87 with your screen name in the liri.js file, as shown in the following example:</p>
 <pre>
   //Parameters. Show the tweets from my timeline. Limit to the last 20 tweets.
-  var params = {screen_name: 'iamPhilStubbs', limit: 20};
+  var params = {screen_name: 'rgalleguillos87', limit: 20};
   client.get('statuses/user_timeline', params, function(error, tweets, response) {
 </pre>
 
