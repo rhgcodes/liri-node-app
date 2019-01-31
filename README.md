@@ -117,7 +117,7 @@ help | Shows help information for each command.
 </ul>
 
 ### <a name="tweets"></a> Displaying my tweets
-<p>By default, the application displays tweets from my Twitter account (iamPhilStubbs). If you want LIRI to show tweets from your own Twitter account, replace iamPhilStubbs with your screen name in the liri.js file, as shown in the following example:</p>
+<p>By default, the application displays tweets from my Twitter account (rgalleguillos87). If you want LIRI to show tweets from your own Twitter account, replace rgalleguillos87 with your screen name in the liri.js file, as shown in the following example:</p>
 <pre>
   //Parameters. Show the tweets from my timeline. Limit to the last 20 tweets.
   var params = {screen_name: 'iamPhilStubbs', limit: 20};
