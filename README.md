@@ -143,8 +143,8 @@ help | Shows help information for each command.
 
 ## <a name="technologies-used"></a> Technologies used to build app
 
+  * JavaScript
   * Node.js (https://nodejs.org/en/)
-  * Javascript
 
 ## <a name="feature-enhancements"></a> Future code development
 <p>Source code will be developed over time to handle new features in the future.</p>
@@ -156,4 +156,8 @@ help | Shows help information for each command.
 <ul>
   <li>The Rotten Tomatoes rating is not available for every movie. For future code update, tell the user that the "Rating is not available" for Rotten Tomatoes rating.</li>
 </ul>
+
+## <a name="author"></a> Author
+
+* Ruben Galleguillos - *JS/MySQL/Node.js* - [Ruben Galleguillos](https://github.com/rhgcodes)
 
