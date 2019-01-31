@@ -160,5 +160,5 @@ help | Shows help information for each command.
 
 ## <a name="author"></a> Author
 
-* Ruben Galleguillos - *JS/MySQL/Node.js* - [Ruben Galleguillos](https://github.com/rhgcodes)
+* Ruben Galleguillos - *JS/Node.js* - [Ruben Galleguillos](https://github.com/rhgcodes)
 
